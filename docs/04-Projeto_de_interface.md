@@ -2,7 +2,7 @@
 
 # User Flow - Fluxo de usuário
 
-Para representação visual, criamos um fluxograma completo da aplicação, e em seguida, iremos detalhar página por página da aplicação.
+Para representação visual, criamos um fluxograma completo da aplicação, e em seguida, iremos detalhar página por página.
 
 ![image](https://github.com/user-attachments/assets/661fb4b0-5622-4ff6-9787-ed30a47cd835)
 **Figura 1** - Telas de login, cadastro, perfil e página Home.
