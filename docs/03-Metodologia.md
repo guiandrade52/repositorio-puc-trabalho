@@ -33,15 +33,6 @@ Para este projeto, serão utilizadas as seguintes ferramentas:
 - **Editor de código** (VSCode ou Visual Studio Community)
 - **Comunicação**: Teams e Whatsapp
 
-### API's, bibliotecas, linguagens, extensões e frameworks utilizados:
-Abaixo, podemos observar a lista de tecnologias utilizadas no projeto:
-- Javascript (Linguagem de programação)
-- HTML (Linguagem de formatação)
-- CSS (Estilização da página) <a definir com o grupo>
-- Leaflet (API - open source): exibição dos mapas e pontos de coleta
-- React (Bibiloteca): desenvolvimento de interfaces <a definir com o grupo>.
-- Go live (Extensão): ferramenta para utilizar o site em localhost
-
 ### Estratégia de Organização de Codificação 
 | Ambiente | Plataforma | Acesso                 |
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
