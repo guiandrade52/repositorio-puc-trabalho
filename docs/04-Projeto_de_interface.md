@@ -34,7 +34,7 @@ O usuário também pode criar um novo cadastro ou solicitar uma alteração de s
 
 
 ## **Tela - Home**
-A tela Home o usuário pode navegar pelo mapa e buscar pontos de coleta baseando-se em sua localização atual, filtrar um endereço manualmente e filtrar por produtos.
+O usuário pode navegar pelo mapa e buscar pontos de coleta baseando-se em sua localização atual (necessário fornecimento de permissão), filtrar um endereço manualmente e filtrar por produtos.
 Ao clicar em algum ponto de coleta, as informações do ponto será exibida, como por exemplo: 
 - Endereço
 - Equipamentos que podem ser descartados
