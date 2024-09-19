@@ -1,4 +1,4 @@
-# Metodologia utilizada
+# Metodologia
 
 ## Gerenciamento de Projeto
 Escolhemos utilizar o scrum por ser uma das metodologias mais populares do mercado. Sendo utilizado em 66% dos projetos ágeis em 2023 (A referência pode ser encontrada no final do documento).
@@ -32,17 +32,6 @@ Para este projeto, serão utilizadas as seguintes ferramentas:
 - **Design**: Figma (Desenho de wireframes, etc)
 - **Editor de código** (VSCode ou Visual Studio Community)
 - **Comunicação**: Teams e Whatsapp
-
-### Estratégia de Organização de Codificação 
-| Ambiente | Plataforma | Acesso                 |
-|--------------------|--------------------------------------------------------------------------------|----------------------------------------|
-|Código Fonte | GitHub | <A definir> |
-|Documentação do projeto  | GitHub | <A definir> |
-|Interface / Wireframe | Figma | https://www.figma.com/design/7nnBBJeeotzXBnAgp5Y8cQ/Projeto-Lixo?node-id=0-1&t=6328vRUdoruFooAr-1 |
-|Quadro Kanban  | GitHub | <A definir> |
-
-### Etiquetas utilizadas no Scrum board
-<A definir após liberação do github>
 
 # Referencias:
 - *Top Scrum Usage*
