@@ -2,7 +2,7 @@
 
 # User Flow - Fluxo de usuário
 
-Para representação visual, criamos um fluxograma completo da aplicação, e em seguida, iremos detalhar página por página da aplicação. Para visualização do protótipo, você pode acessar link a seguir: <a href="https://www.figma.com/design/7nnBBJeeotzXBnAgp5Y8cQ/Projeto-Lixo?node-id=0-1&t=78glQwEsSvU1g55z-1">Figma - E-ciclo</a>.
+Para representação visual, criamos um fluxograma completo da aplicação, e em seguida, iremos detalhar página por página da aplicação.
 
 ![image](https://github.com/user-attachments/assets/661fb4b0-5622-4ff6-9787-ed30a47cd835)
 **Figura 1** - Telas de login, cadastro, perfil e página Home.
@@ -14,6 +14,9 @@ Para representação visual, criamos um fluxograma completo da aplicação, e em
 
 **Figura 3** - Exemplicação de erros
 
+# Protótipo
+Realizamos a criação de um protótipo interativo na ferramenta online Figma. Para visualização do protótipo, você pode acessar link a seguir: <a href="https://www.figma.com/design/7nnBBJeeotzXBnAgp5Y8cQ/Projeto-Lixo?node-id=0-1&t=78glQwEsSvU1g55z-1">Figma - E-ciclo</a>.
+
 # Detalhamento das telas
 
 ## **Tela - Login**
@@ -23,7 +26,8 @@ Antes que o usuário possa navegar até a tela Home, primeiro deve-se seguir um 
 - autenticação básica fornecida pelo site.
 - clicar na opção continuar sem autenticação.
 
-O usuário também pode criar um novo cadastro ou solicitar uma alteração de senha.
+O usuário também pode criar um novo cadastro ou solicitar uma alteração de senha. Para isso, o usuário deve informar seu nome (obrigatório), telefone (opcional) e e-mail(obrigatório).
+
 ![image](https://github.com/user-attachments/assets/deb1473a-5985-424f-ba7b-913bb65e21f8)
 
 **Figura 1** - Tela de login
@@ -41,8 +45,12 @@ Ao clicar em algum ponto de coleta, as informações do ponto será exibida, com
 **Figura 2** - Tela Home
 
   ![image](https://github.com/user-attachments/assets/9e175e7e-d625-43d2-8906-22d8db09d42c)
-  **Figura 3** - Usuário clica em ponto de coleta e exibe detalhamento avançado.
+**Figura 3** - Usuário clica em ponto de coleta e exibe detalhamento avançado.
 
 
-  
+## **Tela - Home > Perfil**
+O usuário também pode alterar as informações de seu perfil, como demonstra a imagem abaixo:
+ ![image](https://github.com/user-attachments/assets/230171a6-71cc-4cf2-86c3-79b251f8f1a4)
+ 
+**Figura 4** - Perfil de usuário
 
