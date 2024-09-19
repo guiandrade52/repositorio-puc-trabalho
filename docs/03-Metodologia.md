@@ -1,7 +1,7 @@
 # Metodologia utilizada
 
 ## Gerenciamento de Projeto
-Escolhemos utilizar o scrum por ser uma das metodologias mais populares do mercado. Sendo utilizado em 66% dos projetos ágeis em 2023 (A referência pode ser encontrada no final do documento.
+Escolhemos utilizar o scrum por ser uma das metodologias mais populares do mercado. Sendo utilizado em 66% dos projetos ágeis em 2023 (A referência pode ser encontrada no final do documento).
 
 Como podemos observar, a metodologia scrum trás diversos benefícios como:
 
