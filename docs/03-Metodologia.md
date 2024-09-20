@@ -18,7 +18,7 @@ Após alinharmos, ficou definido a seguinte estrutura:
 - **Equipe de Design**: Guilherme de Andrade
 
 ### Processo
-Realizaremos Daily's **(Daily scrum)** para realizamos a distribuição e organização das tarefas. O time está utilizando o Github e um quadro Kanban para gerenciamento das tarefas. As reuniões diárias tem duração de no máximo 15 minutos e devem ser o mais objetivas possíveis. Detalhando o que foi feito, o que será feito e se existe alguma dificuldade em que o scrum master possa ajudar para facilitar a entrega das tarefas.
+Realizaremos Daily's **(Daily scrum)** para decidir a distribuição e organização das tarefas. O time está utilizando o Github e um quadro Kanban para gerenciamento das tarefas. As reuniões diárias tem duração de no máximo 15 minutos e devem ser o mais objetivas possíveis. Detalhando o que foi feito, o que será feito e se existe alguma dificuldade em que o scrum master possa ajudar para facilitar a entrega das tarefas.
 
 A estrutura é a seguinte:
 - **Product Backlog**: é uma lista de produtos que serão tratados em uma sprint de 2 a 4 semanas.
